@@ -4,7 +4,7 @@ dj-database-url==0.4.2
 Django==2.0
 gunicorn==19.7.1
 idna==2.6
-PyJWT==1.5.3
+PyJWT==2.4.0
 PySocks==1.6.8
 pytz==2018.3
 R305==2.0.0
